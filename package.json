@@ -1,0 +1,23 @@
+{
+  "name": "gulp-jsx-mini",
+  "version": "0.1.0",
+  "description": "gulp jsx plugin with no dependency",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mko-io/gulp-jsx-mini.git"
+  },
+  "keywords": [
+    "gulp",
+    "jsx"
+  ],
+  "author": "mko_io",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/mko-io/gulp-jsx-mini/issues"
+  },
+  "homepage": "https://github.com/mko-io/gulp-jsx-mini#readme"
+}
